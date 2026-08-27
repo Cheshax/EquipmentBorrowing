@@ -12,8 +12,10 @@ ConsoleDemo (future UI)
    ConsoleDemo uses Application. Application uses Domain.
    Infrastructure also uses Domain and Application (so it can implement Application's interfaces), 
    but nothing depends on Infrastructure ( can be replaced with database implimentation in the future ).
-  
-Reflection                        
+
+  
+Reflection
+                        
 1. Why depend on an interface instead of a database directly?
 - So the code doesn't care where the data comes from. this is just to test it without changing the service.
 2. What stays the same if SQLite is added later?
