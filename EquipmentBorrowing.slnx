@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="src/EquipmentBorrowing.Application/EquipmentBorrowing.Application.csproj" Id="c028bcb5-3122-421c-83cd-20624338f4cf" />
+  <Project Path="src/EquipmentBorrowing.ConsoleDemo/EquipmentBorrowing.ConsoleDemo.csproj" Id="156822b3-b213-4ada-be03-54109863e74a" />
+  <Project Path="src/EquipmentBorrowing.Domain/EquipmentBorrowing.Domain.csproj" />
+  <Project Path="src/EquipmentBorrowing.Infrastructure/EquipmentBorrowing.Infrastructure.csproj" Id="179645c1-5238-4b7f-a86a-623d01de1bb0" />
+  <Project Path="tests/EquipmentBorrowing.Tests/EquipmentBorrowing.Tests.csproj" Id="3762bdd8-8078-42a6-abcf-7b9fa69ac07a" />
+</Solution>
