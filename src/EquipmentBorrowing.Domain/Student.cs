@@ -6,7 +6,7 @@ public class  Student
     public string name { get;}
     public bool IsAllowedtoBorrow { get; private set; }
 
-    public Student(int id, string name, bool isAllowedtoBorrow)
+    public Student(int id, string name, bool isAllowedtoBorrow = true)
     {
         Id = id;
         this.name = name;
